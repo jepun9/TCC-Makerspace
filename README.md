@@ -1,7 +1,6 @@
 # TCC-Makerspace
 Web application for Tidewater Community College's Makerspace. 
-# Usage
-* run index.html in browser
+* run index.html in a browser
 * HTML5
 * CSS3
 * Bootstrap v4.3
