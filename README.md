@@ -1,5 +1,5 @@
 # TCC-Makerspace
-Web application for Tidewater Community College's Makerspace. 
+Website for Tidewater Community College's Makerspace. 
 ## Usage
 Run index.html in a browser.
 ## Built with
